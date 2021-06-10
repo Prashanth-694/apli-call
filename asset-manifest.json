@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/apli-call/static/css/main.2dd01b55.chunk.css",
+    "main.js": "/apli-call/static/js/main.7bfc416a.chunk.js",
+    "main.js.map": "/apli-call/static/js/main.7bfc416a.chunk.js.map",
+    "runtime-main.js": "/apli-call/static/js/runtime-main.ee04676c.js",
+    "runtime-main.js.map": "/apli-call/static/js/runtime-main.ee04676c.js.map",
+    "static/js/2.139c784e.chunk.js": "/apli-call/static/js/2.139c784e.chunk.js",
+    "static/js/2.139c784e.chunk.js.map": "/apli-call/static/js/2.139c784e.chunk.js.map",
+    "index.html": "/apli-call/index.html",
+    "static/css/main.2dd01b55.chunk.css.map": "/apli-call/static/css/main.2dd01b55.chunk.css.map",
+    "static/js/2.139c784e.chunk.js.LICENSE.txt": "/apli-call/static/js/2.139c784e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee04676c.js",
+    "static/js/2.139c784e.chunk.js",
+    "static/css/main.2dd01b55.chunk.css",
+    "static/js/main.7bfc416a.chunk.js"
+  ]
+}
