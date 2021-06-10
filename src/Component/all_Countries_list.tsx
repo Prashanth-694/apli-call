@@ -6,7 +6,7 @@ import './countrey.css';
 
 const Countries_List = () => {
 
-    const allCountry_url = 'https://restcountries.eu/rest/v2/all';
+    const  allCountry_url = 'https://restcountries.eu/rest/v2/all';
 
     const [countries, setcountries] = useState([]);
     //const [currentPage, setcurrentPage] = useState(1)

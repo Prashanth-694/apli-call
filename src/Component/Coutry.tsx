@@ -6,7 +6,7 @@ import './countrey.css';
 function Coutry() {
     const [country, setcountry] = useState([]);
     const name = useParams();
-
+    
     const fetchCuntry_Data = async () => {
         let kk = stringify(name).slice(5);
         console.log(kk);
